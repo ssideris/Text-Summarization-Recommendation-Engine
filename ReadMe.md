@@ -31,7 +31,7 @@ Back-end
 
    5.1) The user could run the 'mysql_articles_update.py' file in order to upload any updated 'Summaries.csv' file to the table 'Articles' of our database.
 
-   5.2) The user could runs the 'mysql_recommendations_update.py' file in order to upload any updated 'Recommendations.csv' file to the table 'Recommendations' of our database.
+   5.2) The user could run the 'mysql_recommendations_update.py' file in order to upload any updated 'Recommendations.csv' file to the table 'Recommendations' of our database.
 
 Front-end
 
