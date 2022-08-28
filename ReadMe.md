@@ -7,7 +7,7 @@ The original dataset is stored in the following link: https://evasharma.github.i
 1. The user unzips the downloaded file.
 2. The user runs the 'create-csv.ipynb' file to convert all the zipped json files to a dataframe format and save it to a csv file called 'initial_dataset.csv'
 
-|------------------------------- SUMMARIZATION AND RECOMMENDATION PROCESS --------------------------------------|
+|----------------------------- SUMMARIZATION AND RECOMMENDATION PROCESS -----------------------------------|
 
 3. The user loads the 'initial_dataset.csv' and 'contractions.pkl' files in the 'Custom_Text_Summarization.ipynb' notebook to run the custom text summarization model.
 4. The user loads the 'initial_dataset.csv' in the 'Pretrained_Text_Summarization.ipynb' notebook to run the Facebook Bart Large model and produce text summaries. The summaries will be used to create a article's recommendation engine.
