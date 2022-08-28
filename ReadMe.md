@@ -34,5 +34,6 @@ Front-end
    The user runs the 'main.php' to a browser in the adress 'localhost/main.php' in order to enter the web app.
 
 |--------------------------------------------- BUSINESS USE CASE -----------------------------------------------|
+
 The application aims to automate the procedures of articles' summarization and recommendation on a website.
 The user is able to read summaries of articles and be recommended other similar articles when clicking on them for further reading, with minimum effort from the website's admin.
