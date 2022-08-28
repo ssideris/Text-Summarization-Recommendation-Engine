@@ -15,7 +15,7 @@ The original dataset is stored in the following link: https://evasharma.github.i
 |----------------------------- SUMMARIZATION AND RECOMMENDATION PROCESS -----------------------------------|
 
 3. The user loads the 'initial_dataset.csv' and 'contractions.pkl' files in the 'Custom_Text_Summarization.ipynb' notebook to run the custom text summarization model.
-4. The user loads the 'initial_dataset.csv' in the 'Pretrained_Text_Summarization.ipynb' notebook to run the Facebook Bart Large model and produce text summaries. The summaries will be used to create a article's recommendation engine.
+4. The user loads the 'initial_dataset.csv' in the 'Pretrained_Text_Summarization.ipynb' notebook to run the Facebook Bart Large model and produce text summaries. The summaries will be used to create an article's recommendation engine.
 
    4.1 The predicted summaries are converted to embeddings, with which the user can conduct KMeans clustering to create 6 clusters.
 
