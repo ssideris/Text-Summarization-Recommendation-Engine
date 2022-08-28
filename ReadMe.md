@@ -1,3 +1,8 @@
+|--------------------------------------------- BUSINESS USE CASE -----------------------------------------------|
+
+The application aims to automate the procedures of articles' summarization and recommendation on a website.
+The user is able to read summaries of articles and be recommended other similar articles when clicking on them for further reading, with minimum effort from the website's admin.
+
 |--------------------------------------------- DATA EXTRACTION -----------------------------------------------|
 
 The original dataset is stored in the following link: https://evasharma.github.io/bigpatent/
@@ -32,8 +37,3 @@ Front-end
 
 6. To run the website the user loads the Front-end files (.php, .html and .css) to a web server. We used XAMPP Control Panel to create a local server and load the files.
    The user runs the 'main.php' to a browser in the adress 'localhost/main.php' in order to enter the web app.
-
-|--------------------------------------------- BUSINESS USE CASE -----------------------------------------------|
-
-The application aims to automate the procedures of articles' summarization and recommendation on a website.
-The user is able to read summaries of articles and be recommended other similar articles when clicking on them for further reading, with minimum effort from the website's admin.
